@@ -41,8 +41,8 @@ export function escolherMolho() {
     } else {
         hideElement("imageYellowSauce");
     }
-
 }
+
 export function escolherTipo() {
     // Escolher tipo de pizza
     //Se as duas checkbox estiverem marcadas vai aparecer o "vegano-e-Nvegano"
